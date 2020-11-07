@@ -51,6 +51,7 @@ Conditionals check if the given statement is true or false, and execute the code
 `if` checks the condition, but if the condition is not met, the code below `else` executes (optional).
 
 ### Boolean operators
+
 | Operator | Description |
 |--------- | ----------- |
 | > | Greater than |
@@ -71,6 +72,7 @@ else:
     c = a+b
 ```
 # Logical operators
+
 | Operator | Description |
 |--------- | ----------- |
 | and | Greater than |
