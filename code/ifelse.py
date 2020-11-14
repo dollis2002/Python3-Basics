@@ -7,3 +7,4 @@ if a > b: # --> not met condition
 else:# --> so this statement executes
     c = a+b
 # --> Since a is not greater than b, the code assigns a+b (1+2) to c 
+
